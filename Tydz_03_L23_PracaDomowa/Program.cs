@@ -29,6 +29,9 @@ namespace Tydz_03_L23_PracaDomowa
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Metoda uruchamiająca grę, nie wymaga parametrów.
+        /// </summary>
         static void StartGame()
         {
             _minValue = 0;
