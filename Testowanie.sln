@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tydz_03_L21_PracaDomowa", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tydz_03_L23_PracaDomowa", "Tydz_03_L23_PracaDomowa\Tydz_03_L23_PracaDomowa.csproj", "{5D0B633D-A678-468A-A5E9-B89474A2F216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tydz_04_L11_PracaDomowa", "Tydz_04_L11_PracaDomowa\Tydz_04_L11_PracaDomowa.csproj", "{B4DE93AC-C710-468C-8E55-79CBF8A77758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5D0B633D-A678-468A-A5E9-B89474A2F216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0B633D-A678-468A-A5E9-B89474A2F216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0B633D-A678-468A-A5E9-B89474A2F216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DE93AC-C710-468C-8E55-79CBF8A77758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DE93AC-C710-468C-8E55-79CBF8A77758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DE93AC-C710-468C-8E55-79CBF8A77758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DE93AC-C710-468C-8E55-79CBF8A77758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
